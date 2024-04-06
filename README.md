@@ -1,5 +1,9 @@
 # Data-Analytics-Applications
 - 4 Case Study Reports (word docs) and accompanying R Code Files [group project collaborators: Emilie Baek, Bella Lin, and Makenzie Kalebick]
+    - Bank Marketing Case Study
+    - Bookbinders Case Study
+    - Dow Jones Case Study
+    - Customer Retention Case Study
 - 1 individual project
 
 COURSE DESCRIPTION:
