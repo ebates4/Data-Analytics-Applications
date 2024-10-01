@@ -4,8 +4,7 @@
     - Bookbinders Case Study
     - Dow Jones Case Study
     - Customer Retention Case Study
-- 1 individual project: https://www.canva.com/design/DAGEOlSkrE4/A9z00ELmrpzQp75aIWfQjQ/view?utm_content=DAGEOlSkrE4&utm_campaign=designshare&utm_medium=link&utm_source=editor
-    - https://rpubs.com/eabates/tennis_project 
+- 1 individual project (Tennis): https://www.canva.com/design/DAGEOlSkrE4/A9z00ELmrpzQp75aIWfQjQ/view?utm_content=DAGEOlSkrE4&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 COURSE DESCRIPTION:
 3 credit hours. Students will be presented a big picture understanding of data analytics, including its
